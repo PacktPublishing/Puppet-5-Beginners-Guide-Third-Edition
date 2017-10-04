@@ -4,3 +4,7 @@
 [submodule "pbg_ntp"]
 	path = pbg_ntp
 	url = https://github.com/bitfield/pbg_ntp
+[submodule "control-repo-3"]
+	path = control-repo-3
+	url = https://github.com/bitfield/control-repo-3
+	branch = production
