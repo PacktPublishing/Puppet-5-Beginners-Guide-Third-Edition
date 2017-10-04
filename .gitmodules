@@ -1,0 +1,6 @@
+[submodule "puppet-beginners-guide-3"]
+	path = puppet-beginners-guide-3
+	url = https://github.com/bitfield/puppet-beginners-guide-3
+[submodule "pbg_ntp"]
+	path = pbg_ntp
+	url = https://github.com/bitfield/pbg_ntp
